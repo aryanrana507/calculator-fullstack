@@ -1,0 +1,1 @@
+{"description":"Full-stack calculator — Node.js backend does the maths (safe hand-written parser, no eval), browser frontend only displays","engines":{"node":">=18"},"main":"server.js","name":"calculator-fullstack","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
